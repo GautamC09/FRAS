@@ -21,7 +21,7 @@
 | File/Folder     | Description                                   |
 |----------------|-----------------------------------------------|
 | `FRAS.py`       | Main Python file containing all application logic |
-| `Requirements.txt'           | Dependencies Require To Run this project|
+| `Requirements.txt`          | Dependencies Require To Run this project|
 ---
 
 ## 🔧 Technologies Used
