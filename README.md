@@ -42,6 +42,6 @@
    ```bash
    pip install -r Requirements.txt
 2. **Run the Code**
-    Run the following command:
+   Run the following command:
    ```bash
    python FRAS.py
