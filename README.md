@@ -12,7 +12,7 @@
 - ✅ **Face Recognition Login** – Real-time webcam-based authentication.
 - 🗃️ **Attendance Logs** – CSV-based subject-wise logs with timestamp.
 - 🎛️ **GUI Interface** – Clean themed interface using `ttkthemes`.
-- 📁 **View Logs** – One-click access to saved attendance files.
+  
 
 ---
 
